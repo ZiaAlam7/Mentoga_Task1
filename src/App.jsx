@@ -11,30 +11,30 @@ import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 const projects = [
   {
     title: "Brand Identity Design",
-    image: "/images/project1.jpg",
+    image: process.env.PUBLIC_URL + "/images/project1.jpg",
     description:
       "Complete brand identity for a boutique fashion label including logo, color palette, and typography.",
   },
   {
     title: "UI/UX for Mobile App",
-    image: "/images/project2.jpg",
+    image: process.env.PUBLIC_URL + "/images/project2.jpg",
     description:
       "Designed user-friendly and modern UI for a fitness tracking app.",
   },
   {
     title: "Marketing Campaign Graphics",
-    image: "/images/project3.jpg",
+    image: process.env.PUBLIC_URL + "/images/project3.jpg",
     description:
       "Crafted graphics for a social media campaign that increased engagement by 30%.",
   },
   {
     title: "E-commerce Product Design",
-    image: "/images/project4.jpg",
+    image: process.env.PUBLIC_URL + "/images/project4.jpg",
     description: "Created product showcase visuals for an e-commerce store.",
   },
   {
     title: "Infographic Design",
-    image: "/images/project5.jpg",
+    image: process.env.PUBLIC_URL + "/images/project5.jpg",
     description:
       "Designed informative and visually appealing infographics for a tech blog.",
   },
