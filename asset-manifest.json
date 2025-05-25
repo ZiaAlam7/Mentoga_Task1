@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mentoga_Task1/static/css/main.33027f46.css",
-    "main.js": "/Mentoga_Task1/static/js/main.ba4d82e2.js",
+    "main.js": "/Mentoga_Task1/static/js/main.7f1dc842.js",
     "static/js/453.785df261.chunk.js": "/Mentoga_Task1/static/js/453.785df261.chunk.js",
     "index.html": "/Mentoga_Task1/index.html",
     "main.33027f46.css.map": "/Mentoga_Task1/static/css/main.33027f46.css.map",
-    "main.ba4d82e2.js.map": "/Mentoga_Task1/static/js/main.ba4d82e2.js.map",
+    "main.7f1dc842.js.map": "/Mentoga_Task1/static/js/main.7f1dc842.js.map",
     "453.785df261.chunk.js.map": "/Mentoga_Task1/static/js/453.785df261.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33027f46.css",
-    "static/js/main.ba4d82e2.js"
+    "static/js/main.7f1dc842.js"
   ]
 }
